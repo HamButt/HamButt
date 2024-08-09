@@ -1,14 +1,16 @@
 ## Hi there 👋
 
-<!--
-**HamButt/HamButt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HamButt** is a special repository about me and my current development.
 
-Here are some ideas to get you started:
+- I’m currently working on Praiseboard as a full stack developer since 3 months.
+- I’m currently learning mongodb along with Praiseboard.
+- I have past 8 months expereince.
+- Ask me about my past experience, my current working, where and why.
+- How to reach me: Message me on LinkedIn:
+  - https://www.linkedin.com/in/hammadbutt12/
+- My current project https://praiseboard.vercel.app
+- Previous projects
+  - ptatax.pk
+  - askyourplayer.com
 
-- 🔭 I’m currently working on Praiseboard
-- 🌱 I’m currently learning mongodb along with Praiseboard
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my past experience, my current working, where and why.
-- 📫 How to reach me: Message me on LinkedIn
 
