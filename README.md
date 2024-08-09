@@ -10,7 +10,7 @@
   - https://www.linkedin.com/in/hammadbutt12/
 - My current project https://praiseboard.vercel.app
 - Previous projects
-  - ptatax.pk
-  - askyourplayer.com
+  - https://ptatax.pk
+  - https://askyourplayer.com
 
 
