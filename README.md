@@ -36,6 +36,7 @@
   
 - My present project:
   - https://praiseboard.vercel.app
+    
     - Tech Stack: Next.js 14 (pages router), TailwindCSS 3, Node.js 20, Express.js 4, Mongodb (mongoose 3)
     - Packages for UI/UX: Framer motion, Prime react, React confetti, Sonner, DaisyUI, NextUI, AOS
     - Integrations: Giphy, Unsplash, Multer, JSON Web Token, Passport.js, Passport Google Oauth2, Brevo (sendInBlue)
