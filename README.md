@@ -19,13 +19,17 @@
       - Bootstrap
       - TailwindCSS
   - Databases:
-      - MySQL, Mongodb
+      - MySQL
+      - Mongodb
   - Management:
       - Github projects
   - Source Control:
-      - Git, Github
+      - Git
+      - Github
   - Deployment:
-      - cPanel, Vercel, Railway
+      - cPanel
+      - Vercel
+      - Railway
   
 - How to reach me:
   - https://www.linkedin.com/in/hammadbutt12/
