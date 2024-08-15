@@ -2,14 +2,41 @@
 
 **HamButt** is a special repository about me and my current working.
 
-- I’m currently working on Praiseboard as a full stack developer since 3 months.
-- I’m currently learning mongodb along with Praiseboard.
-- I have past 8 months experience.
-- Ask me about my past experience, my current working, where and why.
-- How to reach me: Message me on LinkedIn:
+- I’m currently working on Praiseboard as a fullStack developer from previous 3+ months on MERN stack.
+  
+- WORK EXPERIENCE:
+- I have 8 months experience at CrossVision as individual fullStack developer.
+  
+-TECHNOLOGIES
+  - Framework:
+      - React.js
+      - React Native
+      - Next.js
+      - Express.js
+  - Languages:
+      - Javascript
+  - Front end:
+      - Bootstrap
+      - TailwindCSS
+  - Databases:
+      - MySQL, Mongodb
+  - Management:
+      - Github projects
+  - Source Control:
+      - Git, Github
+  - Deployment:
+      - cPanel, Vercel, Railway
+  
+- How to reach me:
   - https://www.linkedin.com/in/hammadbutt12/
-- My current project https://praiseboard.vercel.app
-- Previous projects
+  
+- My present project:
+  - https://praiseboard.vercel.app
+    - Tech Stack: Next.js 14 (pages router), TailwindCSS 3, Node.js 20, Express.js 4, Mongodb (mongoose 3)
+    - Packages for UI/UX: Framer motion, Prime react, React confetti, Sonner, DaisyUI, NextUI, AOS
+    - Integrations: Giphy, Unsplash, Multer, JSON Web Token, Passport.js, Passport Google Oauth2, Brevo (sendInBlue)
+    
+- Previous projects:
   - https://ptatax.pk
   - https://askyourplayer.com
 
