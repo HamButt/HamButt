@@ -7,7 +7,7 @@
 - WORK EXPERIENCE:
 - I have 8 months experience at CrossVision as individual fullStack developer.
   
--TECHNOLOGIES
+- TECHNOLOGIES
   - Framework:
       - React.js
       - React Native
