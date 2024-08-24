@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**HamButt** is a special repository about me and my current working.
+## Hi this is Hammad Butt 👋
 
 - I’m currently working on Praiseboard as a fullStack developer from previous 3+ months on MERN stack.
   
