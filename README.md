@@ -3,7 +3,7 @@
 - I’m currently working on Praiseboard as a fullStack developer from previous 3+ months on MERN stack.
   
 - WORK EXPERIENCE:
-- I have 8 months experience at CrossVision as individual fullStack developer.
+- I have 8 months experience at CrossVision as individual fullStack developer and over all experience is over a year.
   
 - TECHNOLOGIES
   - Framework:
