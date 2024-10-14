@@ -1,6 +1,6 @@
 ## Hi this is Hammad Butt 👋
 
-- I’m currently working on Praiseboard as a fullStack developer from previous 3+ months on MERN stack.
+- I’m currently working on Praiseboard from previous 3+ months and invoice automator from last 1+ month at the same time as a fullStack developer on MERN stack.
   
 - WORK EXPERIENCE:
 - I have 8 months experience at CrossVision as individual fullStack developer and over all experience is over a year.
