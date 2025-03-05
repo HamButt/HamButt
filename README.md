@@ -3,7 +3,7 @@
 - I’m a MERN stack developer with 1.5 years of experience.
   
 - WORK EXPERIENCE:
-- I have 8 months experience at CrossVision as individual fullStack developer and over all experience is over a year.
+- I have 8 months experience at CrossVision as individual fullStack developer, 4 months in kaizen and 3 months at Txend as Associate sofware Engineer.
   
 - TECHNOLOGIES
   - Framework:
